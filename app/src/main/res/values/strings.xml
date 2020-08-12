@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Quarentine</string>
+    <string name="my_image_desc" />
 </resources>
